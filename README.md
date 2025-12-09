@@ -1,3 +1,3 @@
 # unusual_spectra
 Data for resubmission of https://arxiv.org/abs/2507.07191.
-The Mathematica notebooks plot the data to produce the figures in the resubmitted manuscript.
+The Mathematica notebook "energy_spectra_2d_shift.nb" plot the data to produce the figures in the resubmitted manuscript.
